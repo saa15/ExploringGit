@@ -1,1 +1,1 @@
-# ExploringGit
+Playing around with Git
